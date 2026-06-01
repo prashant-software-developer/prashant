@@ -1,35 +1,80 @@
-# Hi there! I'm Prashant Kumar Singh 👋
+<div align="center">
 
-- Computer science student at Indian Institute of Information Technology (IIIT) Sonepat, India
-- Passionate about product design and development
+# Prashant Kumar Singh
 
-## 🔧 Technical Skills
+**Product Designer · Software Developer · AI Builder**
 
-- Programming Languages: Python, C++, C, Dart, Javascript, PHP, Java
-- Frameworks: Flutter, React Native, MERN stack
-- Design Software: Figma, Canva, Illustrator
-- Databases: Firebase
-- Other Skills: UI/UX design, web development, mobile app development
+I design, build, and ship **SaaS**, **AI**, and **automation** products — end-to-end.
 
-## 💼 Work Experience
+[![Portfolio](https://img.shields.io/badge/prashantworks.com-1D9784?style=for-the-badge)](https://prashantworks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/product-designer-freelancer/)
+[![Twitter](https://img.shields.io/badge/@prashantworkss-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prashantworkss)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantkumarsingh.work@gmail.com)
 
-- Product Designer at Ringover and Acciolbis: Designer many real world projects 
-- UI/UX Lead at GDSC IIIT Sonepat: Design and develop user interfaces and experiences for various projects
-- Web Developer at Ecell IIIT Sonepat: Develop and maintain web applications
+</div>
 
-## 🎓 Education
+---
 
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE) from IIIT Sonepat, India
-- Expected graduation: 2025
+### About
 
-## 🏆 Achievements
+I take products from **idea → design → code → deploy**. No handoffs. No gaps.
 
-- Winner of several coding competitions, including National Programming Challenge and Code Gladiators coding competition
-- Successfully completed several online courses on web development, mobile app development, and UI/UX design
+**3+ years** of experience. **22+ projects** shipped. **11+ clients** across **the US, Europe, Hong Kong, and India**. Currently designing **conversational AI** at **[Ringover](https://www.ringover.com/)**.
 
-## 📱 Get in Touch
+I also deliver **AI training data** — prompt engineering, annotation, **RLHF**, red-teaming, and benchmark design — for AI labs and enterprises.
 
-- LinkedIn: https://www.linkedin.com/in/devprashantt/
-- Email: officialprashanttt@gmail.com
+---
 
-Feel free to contact me if you have any questions or would like to collaborate on a project. Thanks for visiting my profile!
+### Tech
+
+**Design** — Figma, Design Systems, Prototyping, UX Research
+
+**Frontend** — React, Next.js, Redux, React Native
+
+**Backend** — Node.js, Python, Go, .NET, FastAPI, Flask
+
+**AI** — LLM Integration, Prompt Engineering, RLHF, Voice AI
+
+**Cloud** — AWS, Docker, Kubernetes, CI/CD
+
+**Data** — PostgreSQL, MongoDB, Redis, MySQL
+
+---
+
+### Work
+
+**[Ringover](https://www.ringover.com/)** — Product Designer *(Remote, Oct 2024 – Present)*
+> Designing **Empower** (Conversational AI), **AIRO Coach**, **Pitch Room**, **Simless**, and the **Mobile App**. Built AI-powered call studios, coaching frameworks, and role-based dashboards across **Web, iOS, and Android**.
+
+**[Wispel](https://www.wispel.app/)** — Product Designer & Developer *(Remote, Paris, Jun 2023 – Sep 2024)*
+> Owned full product — **React** frontend with **Vonage SDK**, **Node.js + AWS** backend, **Freshsales** and **GoHighLevel** integrations. Designed all marketing and product UI.
+
+---
+
+### Projects
+
+**[Picstone](https://picstone-generative-ai.vercel.app/)** — AI story generator. **107K+ views**. **11K+ users**. **Gen-AI Hackathon Top 5**.
+
+**[QriosX](https://www.qriosx.com/)** — AI coaching platform with journaling, reflections, and grit-based challenges.
+
+**[LinkSaver](https://www.linksaver.in/)** — Resource manager built with **React + Go**. Nested folders, drag-drop, treemap viz, Chrome extension.
+
+**[CineAI](#)** — AI-powered film curator. Daily recommendations tailored to your taste and mood.
+
+**[Cognize](http://cognize.live/)** — Lightweight lead board with activity tracking and auto summaries.
+
+---
+
+### Numbers
+
+**22+** projects shipped · **11+** clients · **107K+** views · **11K+** users · **98%** on-time delivery · **8.5** CGPA (IIIT Sonepat)
+
+---
+
+<div align="center">
+
+**Open to freelance, contract, and full-time opportunities.**
+
+[![Book a Call](https://img.shields.io/badge/Book_a_Discovery_Call-292929?style=for-the-badge)](https://cal.com/prashantkumarsingh/free-product-discovery-call)
+
+</div>
